@@ -1,0 +1,9 @@
+{
+	"name": "dfff-devvv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5762a8de-86d7-4888-bb4e-7250e4e09245",
+		"tenantId": "a444fb41-ff47-4987-8c5e-a855ba9910e1"
+	}
+}
